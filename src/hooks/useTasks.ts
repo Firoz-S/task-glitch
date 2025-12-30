@@ -70,7 +70,6 @@ export function useTasks(): UseTasksState {
     });
   }
 
-  // ✅ FIXED: StrictMode-safe fetch
   useEffect(() => {
     let mounted = true;
 
