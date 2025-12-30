@@ -1,5 +1,6 @@
 import { DerivedTask, Task } from "@/types";
 
+// Prevent division by zero and invalid ROI values
 /* ================= ROI ================= */
 
 export function computeROI(revenue: number, timeTaken: number): number | null {
