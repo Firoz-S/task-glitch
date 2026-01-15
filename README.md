@@ -6,12 +6,6 @@ This repository contains the **fixed version** of the application, where multipl
 
 ---
 
-## 🚀 Live Demo
-
-👉 https://task-glitch-317s42bvw-firoz-ss-projects.vercel.app
-
----
-
 ## 📦 GitHub Repository
 
 👉 https://github.com/Firoz-S/task-glitch
